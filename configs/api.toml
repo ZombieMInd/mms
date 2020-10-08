@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+
+[store]
+database_url = "host=localhost dbname=mms_dev user=mind password=denis895 sslmode=disable"
